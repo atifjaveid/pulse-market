@@ -8,11 +8,11 @@ A Flutter app for real-time stock and cryptocurrency tracking with price alerts,
 
 > Add screenshots here after running the app. Place them in a `screenshots/` folder and reference like:
 > ```
-> ![Splash Screen](screenshots/splash.png)
-> ![Home](screenshots/home.png)
-> ![Asset Detail](screenshots/asset_detail.png)
-> ![Market](screenshots/market.png)
-> ![Portfolio](screenshots/portfolio.png)
+![Splash Screen](screenshots/splash.png)
+![Home](screenshots/home.png)
+![Market](screenshots/market.png)
+![Portfolio](screenshots/portfolio.png)
+![Price Alert](screenshots/price_alert.png)
 > ```
 
 ---
