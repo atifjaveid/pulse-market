@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87781718160",
+    "project_id": "pulse-market",
+    "storage_bucket": "pulse-market.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87781718160:android:fabc910f4c9bd5a522c015",
+        "android_client_info": {
+          "package_name": "com.example.pulsemarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19s79BPfZcGFoWCCWfBmGw2SY3mNYNcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
